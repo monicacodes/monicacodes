@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
 <h3 align="center">working on becoming a full stack web developer</h3>
 
-- 🔭 I’m currently working on **a field guide to rocks**
+- 🔭 I’m currently working on **a field guide to rocks.**
 
 - 🌱 I’m currently learning **node.js**
+
+- 👯 I’m looking to collaborate on **anything that benefits humankind.**
 
 - 📫 How to reach me **ms.monicacodes@gmail.com**
 
