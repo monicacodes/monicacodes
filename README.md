@@ -10,7 +10,9 @@
 - 📫 How to reach me **ms.monicacodes@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
+  <a href="https://twitter.com/monicacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monicacodes" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
