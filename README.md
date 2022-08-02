@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
-<h3 align="center">working on becoming a full stack web developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **a field guide to rocks.**
 
