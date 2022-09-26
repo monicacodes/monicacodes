@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a field guide to rocks.**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on **anything that benefits humankind.**
+- 👯 I’m looking to collaborate on **anything that contributes to the greater good.**
 
 - 📫 How to reach me **ms.monicacodes@gmail.com**
 
