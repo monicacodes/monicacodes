@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that contributes to the greater good.**
 
-- 📫 How to reach me **ms.monicacodes@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 
